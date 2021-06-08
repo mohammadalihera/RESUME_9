@@ -478,20 +478,19 @@ body{
 	background-color:#343438;
 	margin-top:40px;
 	margin-right: 30px;
-	align-items: center;
+	text-align: center;
 	padding-top: 10px;
 	border-radius: 5px;
-	padding-right: 15px;
+	
 }
 .hob-2{
 	height: 50px;
 	width:90px;
-	padding-right: 5px;
 	color:white;
 	background-color:#343438;
 	margin-top:40px;
 	margin-right: 30px;
-	align-items: center;
+	text-align: center;
 	padding-top: 10px;
 	border-radius: 5px;
 }
